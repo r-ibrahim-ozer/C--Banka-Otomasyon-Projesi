@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AnaPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Banka_Rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GirisPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Havale Islemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hesap_Guncelle_Sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hesap_Rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hesap_Rapor_Grid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri_Guncelle_Sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hesap_Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri_Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Para Yatir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Para_Cekme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sifre_Degistirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
